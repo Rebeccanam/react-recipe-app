@@ -1,0 +1,15 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rebecca Nam",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "react-recipe-app"
+  },
+  "description": ""
+}
